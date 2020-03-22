@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PoteznaSkrzynia
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Skrzynia
+    uniqueID: 1214992257
+    locked: 0
+  - name: Domek
+    uniqueID: 3500087187
     locked: 0
